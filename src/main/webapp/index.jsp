@@ -1,5 +1,5 @@
 {
   "name": "Swathi Chittibomma",
-  "role": "Hardworking learner",
+  "About": "Hardworking learner",
   "skills": ["Learning", "Dedication", "Adaptability"]
 }
