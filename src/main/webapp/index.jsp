@@ -4,5 +4,6 @@
   "skills": [
     "Learning",
     "Dedication"
+    "Automation Engineer"
   ]
 }
