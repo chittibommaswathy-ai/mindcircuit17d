@@ -8,7 +8,7 @@
 <title>SS Application</title>
 </head>
 
-<body style="background-color:sea green; text-align:center;">
+<body style="background-color:seagreen; text-align:center;">
 
 <h1>I am Swathi, passionate about learning new things and continuously improving my technical skill/h1>
 
