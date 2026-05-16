@@ -1,20 +1,24 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>SS Application</title>
-</head>
+    <title>My Simple Web App</title>
 
-<body style="background-color:lightblue; text-align:center;">
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 100px;
+        }
 
-<h1>I am Swathi, passionate about learning new things and continuously improving my technical skill</h1>
+        h1 {
+            color: darkblue;
+        }
 
-<h2>Application Successfully Deployed Using Jenkins and Nexus</h2>
+        p {
+            color: black;
+            font-size: 20px;
+        }
 
-<p>CI/CD Pipeline Practice Project</p>
-
-</body>
-</html>
+        button {
+            background-color: darkblue
