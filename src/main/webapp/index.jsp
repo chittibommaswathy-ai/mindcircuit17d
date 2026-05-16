@@ -1,24 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Simple Web App</title>
+    <title>Simple Web Application</title>
 
     <style>
         body {
-            background-color: lightblue;
+            background-color: lightgreen;
             text-align: center;
             font-family: Arial, sans-serif;
             margin-top: 100px;
         }
 
         h1 {
-            color: darkblue;
+            color: darkgreen;
         }
 
         p {
-            color: black;
             font-size: 20px;
+            color: black;
         }
 
         button {
-            background-color: darkblue
+            background-color: darkgreen;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: green;
+        }
+    </style>
+</head
